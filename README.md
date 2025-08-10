@@ -28,6 +28,3 @@ The goal is to strengthen my **problem-solving skills** and build a strong found
 > More topics will be added as I progress.
 
 ---
-
-## 📂 Repository Structure
-# DSA-Java-
